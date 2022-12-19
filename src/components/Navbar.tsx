@@ -102,6 +102,12 @@ export default function NavBar() {
             </li>
           </ul>
         </Collapse>
+        <Collapse title="Other" subtitle="Block and co">
+          <ul className={styles["navbar-Link"]}>
+            <li>Block</li>
+            <li>Chate</li>
+          </ul>
+        </Collapse>
       </Collapse.Group>
     </nav>
   );
