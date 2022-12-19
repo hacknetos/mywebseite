@@ -1,0 +1,27 @@
+.navbar {
+    width: 10rem;
+    height: 100vh;
+    overflow: auto;
+
+    position: fixed;
+}
+
+.navbar-con {
+    /* display: flex;
+    flex-direction: column; */
+    list-style: none;
+}
+
+.navbar-logo {
+    text-align: center;
+}
+
+.navbar-Link {
+    text-align: start;
+    width: 100%;
+}
+
+.set {
+    color: black;
+    background-color: aqua;
+}
